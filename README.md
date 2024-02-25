@@ -1,10 +1,10 @@
-<h1>DIO-AI900-Module-01</h1>
+<h1>DIO-AI900-Module-03</h1>
 <p>Third module challenge for ( DIO - Digital Innovation One) Bootcamp AI 900 (Audio manipulating tools)</p>
 
 <h2>Acess to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html</h2>
 <img src="/Assets/az-acesso-ao-speech-portal.png" width= 100%>
 
-<h2>Creation of the Speech Studio resource "DIO AI 900 Modulo 01"</h2>
+<h2>Creation of the Speech Studio resource "LABAI900-speech"</h2>
 <img src="/Assets/az-criando-recurso.png" width= 100%>
 <img src="/Assets/az-recurso-criado.png" width= 100%>
 
