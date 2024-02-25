@@ -15,4 +15,21 @@
 <img src="/Assets/az-conversão-a-partir-de-audio-fonte-abaixo.png" width= 100%>
 <a href="https://www.youtube.com/watch?v=MuSpZBVcxow&t=862s">Click here to access the material used on the transcription</a>
 
+<h2>Creating Language resource</h2>
+<img src="/Assets/az-recurso-de-idioma.png" width= 100%>
+<img src="/Assets/az-recurso-de-idioma2.png" width= 100%>
+<img src="/Assets/az-recurso-de-idioma3.png" width= 100%>
+<img src="/Assets/az-recurso-de-idioma4.png" width= 100%>
+<img src="/Assets/az-recurso-de-idioma5.png" width= 100%>
+
+<h2>Testing the opinion mining function</h2>
+<img src="/Assets/az-opinion-mining.png" width= 100%>
+
+<h2>Testing again with the referred font from Kurzgesagt </h2>
+<img src="/Assets/az-opinion-mining_com_arquivo_anterior.png" width= 100%>
+<img src="/Assets/az-opinion-mining_detalhado.png" width= 100%>
+<img src="/Assets/az-opinion-mining_detalhado2.png" width= 100%>
+<img src="/Assets/az-opinion-mining_detalhado3.png" width= 100%>
+
+
 
