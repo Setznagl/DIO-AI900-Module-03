@@ -13,6 +13,6 @@
 
 <h2>Using real time audio to text conversion</h2>
 <img src="/Assets/az-conversão-a-partir-de-audio-fonte-abaixo.png" width= 100%>
-<a href="https://www.youtube.com/watch?v=MuSpZBVcxow&t=862s">Fonte</a>
+<a href="https://www.youtube.com/watch?v=MuSpZBVcxow&t=862s">Click here to access the material used on the transcription</a>
 
 
